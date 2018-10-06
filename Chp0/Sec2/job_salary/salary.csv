@@ -1,0 +1,139 @@
+companyCategory,salary_currency,py_max,r_max,py_min,r_min
+Bigdata,EUD,48636.36364,49500,29727.27273,27500
+Bigdata,GBP,55545.45455,54e3,33818.18182,32250
+Bigdata,INR,166e4,1486666.667,642758.6207,786666.6667
+Bigdata,USD,118095,111666.6667,77380,75909.09091
+Bigdata,YEN,8e3,0,3e3,0
+HR recruit,GBP,55e3,0,3e4,0
+HR recruit,INR,920357.1429,15e5,479285.7143,12e5
+HR recruit,USD,119e3,105e3,81909.09091,8e4
+IOT,EUD,57500,0,4e4,0
+IOT,GBP,42666.66667,0,33333.33333,0
+IOT,INR,757272.7273,36e4,34e4,0
+IOT,USD,114125,65e3,75550,42500
+IOT,YEN,3e4,0,15e3,0
+facshion tech,EUD,56250,5e4,42750,43e3
+facshion tech,GBP,7e4,0,5e4,0
+facshion tech,INR,1112500,0,744e3,0
+facshion tech,USD,133076.92310000001,18e4,89615.38462,11e4
+financial service,EUD,58500,0,49e3,0
+financial service,GBP,75e3,0,45e3,0
+financial service,INR,116e4,85e4,72e4,25e4
+financial service,USD,141129.0323,15e4,93064.51613,1e5
+fintech,GBP,45625,5e4,34125,36e3
+fintech,INR,1625e3,0,825125,0
+fintech,USD,140730.7692,173750,96346.15385,123750
+food,INR,1070769.231,7e5,555e3,4e5
+food,USD,112333.3333,0,74777.77778,0
+location based serviced,EUD,55333.33333,0,33e3,0
+location based serviced,INR,99e4,65e4,43e4,15e4
+location based serviced,USD,115071.4286,0,72714.28571,0
+on line travel,EUD,55500,0,34e3,0
+on line travel,GBP,45e3,0,35e3,0
+on line travel,INR,152e4,0,66e4,0
+on line travel,USD,110307.6923,0,61807.69231,0
+social media market,EUD,18e3,0,16e3,0
+social media market,GBP,45e3,0,35e3,0
+social media market,INR,2e6,24e5,8e5,6e5
+social media market,USD,117222.2222,1e5,74166.66667,85e3
+social media platform,GBP,75e3,0,5e4,0
+social media platform,USD,88666.66667,1e5,64500,57500
+startup,GBP,6e4,0,5e4,0
+startup,INR,83e4,12e5,328e3,8e5
+startup,USD,112e3,0,73e3,0
+web development,EUD,45e3,0,3e4,0
+web development,INR,1004090.909,0,454545.4545,0
+web development,USD,95571.42857,0,67476.19048,0
+small and medium business,EUD,21e3,0,14e3,0
+small and medium business,GBP,5e4,55e3,4e4,45e3
+small and medium business,USD,123809.5238,18e4,75952.38095,12e4
+enterpriise software,EUD,4e4,0,2e4,0
+enterpriise software,GBP,65e3,0,45e3,0
+enterpriise software,INR,83e4,1e6,38e4,6e5
+enterpriise software,USD,123606.0606,135e3,81090.90909,9e4
+enterpriise software B2B,EUD,5e4,0,42e3,0
+enterpriise software B2B,GBP,65e3,0,42500,0
+enterpriise software B2B,INR,1025e3,11e5,4e5,9e5
+enterpriise software B2B,USD,111600,15e4,70100,1e5
+healthcare,GBP,7e4,0,5e4,0
+healthcare,INR,1666666.667,0,9e5,0
+healthcare,USD,118895.8333,122500,83062.5,78750
+advertisement,INR,82e4,25e5,411666.6667,15e5
+advertisement,USD,134811.3208,144e3,91471.69811,1e5
+healthcare,GBP,5e4,0,3e4,0
+healthcare,INR,2e6,0,1e6,0
+healthcare,USD,110782.6087,16e3,73826.08696,8e3
+personal healthcare,GBP,8e4,0,3e4,0
+personal healthcare,USD,128157.8947,11e4,81210.52632,75e3
+real estate,EUD,45e3,0,3e4,0
+real estate,GBP,55e3,0,2e4,0
+real estate,INR,3e5,0,18e4,0
+real estate,USD,119538.4615,133333.3333,82076.92308,1e5
+education,INR,3e4,0,25e3,0
+education,USD,175e3,175e3,1e5,1e5
+digital music,EUD,45e3,5e4,4e4,25e3
+digital music,GBP,58800,0,41e3,0
+digital music,INR,1162500,0,4e5,0
+digital music,USD,104125,141666.6667,73593.75,93333.33333
+logistics,INR,1576363.636,0,56e4,0
+logistics,USD,111117.6471,115e3,78176.47059,75e3
+community softwares,GBP,6e4,0,4e4,0
+community softwares,INR,115e4,0,587500,0
+community softwares,USD,101516.129,12e4,70129.03226,8e4
+technology,EUD,0,5e4,0,3e4
+technology,GBP,46666.66667,0,29333.33333,0
+technology,INR,239333.3333,0,171333.3333,0
+technology,USD,125571.4286,12e4,85e3,72500
+online education,EUD,32e3,0,28e3,0
+online education,GBP,45e3,0,32200,0
+online education,INR,1142857.143,0,7e5,0
+online education,USD,102740.7407,135e3,71037.03704,105e3
+mobile,EUD,56111.11111,0,36037.03704,0
+mobile,GBP,56250,5e4,33937.5,29e3
+mobile,INR,1345865.385,175e4,738615.3846,912500
+mobile,USD,110150,103272.7273,71773.07692,65636.36364
+mobile advertisement,EUD,6e4,0,4e4,0
+mobile advertisement,INR,1475e3,15e5,55e4,8e5
+mobile advertisement,USD,92e3,6e4,63875,22500
+mobile application,EUD,5e4,0,3e4,0
+mobile application,INR,9e5,8e5,4e5,4e5
+mobile application,USD,75e3,0,5e4,0
+mobile application,YEN,325e3,0,156e3,0
+mobile payment,GBP,85e3,0,35e3,0
+mobile payment,INR,376e3,0,219e3,0
+mobile payment,USD,136333.3333,0,87333.33333,0
+mobile game,INR,1333333.333,0,8e5,0
+mobile game,USD,142428.5714,0,107285.7143,0
+mobile development,EUD,6e4,0,36e3,0
+mobile development,USD,117500,0,81250,0
+matketing,INR,15e5,0,8e5,0
+matketing,USD,123391.3043,0,81652.17391,0
+data analytics,EUD,7e4,0,55e3,0
+data analytics,GBP,6e4,0,4e4,0
+data analytics,INR,14e5,0,66e4,0
+data analytics,USD,138613.6364,166923.0769,98500,138846.1538
+software,GBP,75333.33333,36e3,44e3,32e3
+software,INR,6e5,0,5e5,0
+software,USD,116100,15e4,78175,12e4
+sports industry,GBP,86250,0,43750,0
+sports industry,INR,12e4,0,1e5,0
+sports industry,USD,99705.88235,0,67058.82353,0
+logistics,EUD,6e4,0,45e3,0
+logistics,INR,18e5,0,12e5,0
+logistics,USD,115461.5385,95e3,79038.46154,55e3
+cloud platform,EUD,46571.42857,48e3,38428.57143,38e3
+cloud platform,GBP,59e3,5e4,42e3,4e4
+cloud platform,INR,1148750,175e4,613750,75e4
+cloud platform,USD,111988.2353,123750,74658.82353,85625
+cloud platform,YEN,4e5,0,15e4,0
+cloud computing,EUD,19500,0,14500,0
+cloud computing,GBP,1e5,0,5e4,0
+cloud computing,INR,92e4,0,44e4,0
+cloud computing,USD,127255.814,18e4,81883.72093,1e5
+cloud computing,YEN,12e6,0,5e6,0
+retailer,INR,668571.4286,0,371428.5714,0
+retailer,USD,132500,15e4,93800,9e4
+e-commerce,EUD,42200,0,32e3,0
+e-commerce,GBP,63636.36364,0,42090.90909,0
+e-commerce,INR,1077e3,933333.3333,566075,366666.6667
+e-commerce,USD,116012.3457,16e4,77456.79012,9e4
